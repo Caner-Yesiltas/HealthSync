@@ -1,7 +1,10 @@
+import Doctors from './components/Doctors';
 import './styles/App.css';
 
 function App() {
-  return <div></div>;
+  return <div>
+    <Doctors/>
+  </div>;
 }
 
 export default App;
