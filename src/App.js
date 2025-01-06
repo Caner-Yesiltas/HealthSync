@@ -1,9 +1,9 @@
-import Doctors from './components/Doctors';
+import Home from './pages/Home';
 import './styles/App.css';
 
 function App() {
   return <div>
-    <Doctors/>
+    <Home/>
   </div>;
 }
 
