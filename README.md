@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Caner Yesiltas - [caneryesiltas1@gmail.com](mailto:caneryesiltas1@gmail.com)
 
-Project Link: [https://github.com/Caner-Yesiltas/HealthSync](https://github.com/Caner-Yesiltas/HealthSync)
+Project Link: [https://health-sync-two-liart.vercel.app](https://health-sync-two-liart.vercel.app)
 
 <div align="center">
   Made with 💚 by Caner Yesiltas
